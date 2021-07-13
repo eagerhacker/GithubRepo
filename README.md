@@ -1,10 +1,10 @@
 # GithubRepo
 
-This app show all Github repositories, using:
+This app show all Github repositories, also include search feature, to demonstrate the basic usage of:
 
 + RecyclerView
 + Realm Database
 + Firebase Authentication
-+ SearchView
 + Navigation Drawer
 + Pagination
++ ViewBinding
