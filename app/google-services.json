@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924422842656",
+    "project_id": "github-repo-d01ce",
+    "storage_bucket": "github-repo-d01ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924422842656:android:c6cab72405fa2b62a28f45",
+        "android_client_info": {
+          "package_name": "com.nerothtr.githubrepo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924422842656-e2l0e3dfjpg921ohedbbgevtur3b5aj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9-jatP--hIukOgxyRLvCZ-JaRcFzNTR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924422842656-e2l0e3dfjpg921ohedbbgevtur3b5aj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
